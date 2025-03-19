@@ -9,3 +9,9 @@ console.log(contador)
 //guilherme
 for (contador=0;contador<=10; contador++)
 console.log(contador= %2 == 0)
+
+//ingrid
+for (contador=0;contador<=20; contador++);
+if(contador%2!=0){
+console.log(contador)
+}
