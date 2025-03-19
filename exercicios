@@ -5,3 +5,7 @@ console.log(contador)
 //Gian
 for (contador=10;contador>=1; contador--)
 console.log(contador)
+
+//guilherme
+for (contador=0;contador<=10; contador++)
+console.log(contador= %2 == 0)
