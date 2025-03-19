@@ -15,3 +15,10 @@ for (contador=0;contador<=20; contador++);
 if(contador%2!=0){
 console.log(contador)
 }
+
+//Jose
+let numero = 5
+
+for (let i = 0; i <= 10; i++) {
+  console.log(numero * i)
+}
